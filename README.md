@@ -1,6 +1,6 @@
 # Personal Portfolio Concept
 
-A professional personal portfolio website built with HTML, CSS, and Bootstrap 5.
+A professional personal portfolio website built with HTML, CSS, and Bootstrap.
 
 ## Features
 
@@ -14,7 +14,7 @@ A professional personal portfolio website built with HTML, CSS, and Bootstrap 5.
 
 - HTML5
 - CSS3 (with CSS variables)
-- Bootstrap 5
+- Bootstrap
 - Google Fonts (Inter)
 - Bootstrap Icons
 
